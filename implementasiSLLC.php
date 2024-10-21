@@ -124,7 +124,7 @@ try {
 
     echo "=== Kelompok 4 Struktur Data dan Algoritma ===\n";
     echo "231232004 Muhammad Iqbal Ramadhan \n";
-    echo "231232008 Andriana Rizki Barokah \n";
+    echo "231232008 Andriana Rizki B \n";
     echo "231132001 Kayla Nindya Putri Maulana \n";
     echo "231132003 Alika Putri Widayani \n";
     echo "231232006 Sutan Ihsan \n";
